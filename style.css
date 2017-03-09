@@ -22,9 +22,11 @@ body
 	margin-left: 0;
 	margin-right:0;
 	display: inline;
+	border-bottom: 30px, solid, blue;
 }
 #title{
 	background-color:teal;
+	color: white;
 }
 
 .navBar {
@@ -46,4 +48,12 @@ body
            display: block;
             background-color: #fff;
             display: inline;
+}
+
+/*#section1{
+	margin-top:100px;
+	height:300px;
+	width: 100%;
+	border-top: 10px solid gray;
+	background-color: blue;
 }
